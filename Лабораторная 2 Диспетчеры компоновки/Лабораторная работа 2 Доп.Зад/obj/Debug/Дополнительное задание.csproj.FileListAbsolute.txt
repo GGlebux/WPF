@@ -1,0 +1,61 @@
+C:\Users\user\Desktop\Раб\avdeev21ис\Дополнительное задание\bin\Debug\Дополнительное задание.exe.config
+C:\Users\user\Desktop\Раб\avdeev21ис\Дополнительное задание\bin\Debug\Дополнительное задание.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\Дополнительное задание\bin\Debug\Дополнительное задание.pdb
+C:\Users\user\Desktop\Раб\avdeev21ис\Дополнительное задание\obj\Debug\Дополнительное задание.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Дополнительное задание\obj\Debug\Дополнительное задание.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Дополнительное задание\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Раб\avdeev21ис\Дополнительное задание\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Раб\avdeev21ис\Дополнительное задание\obj\Debug\Дополнительное задание_MarkupCompile.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Дополнительное задание\obj\Debug\Дополнительное задание_MarkupCompile.lref
+C:\Users\user\Desktop\Раб\avdeev21ис\Дополнительное задание\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Раб\avdeev21ис\Дополнительное задание\obj\Debug\Дополнительное задание.g.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\Дополнительное задание\obj\Debug\Дополнительное_задание.Properties.Resources.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\Дополнительное задание\obj\Debug\Дополнительное задание.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Дополнительное задание\obj\Debug\Дополнительное задание.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Дополнительное задание\obj\Debug\Дополнительное задание.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\Дополнительное задание\obj\Debug\Дополнительное задание.pdb
+C:\Users\kapit\OneDrive\Рабочий стол\Лабораторная работа 2 Доп.Зад\Лабораторная работа 2 Доп.Зад\bin\Debug\Дополнительное задание.exe.config
+C:\Users\kapit\OneDrive\Рабочий стол\Лабораторная работа 2 Доп.Зад\Лабораторная работа 2 Доп.Зад\bin\Debug\Дополнительное задание.exe
+C:\Users\kapit\OneDrive\Рабочий стол\Лабораторная работа 2 Доп.Зад\Лабораторная работа 2 Доп.Зад\bin\Debug\Дополнительное задание.pdb
+C:\Users\kapit\OneDrive\Рабочий стол\Лабораторная работа 2 Доп.Зад\Лабораторная работа 2 Доп.Зад\obj\Debug\Дополнительное задание.csproj.AssemblyReference.cache
+C:\Users\kapit\OneDrive\Рабочий стол\Лабораторная работа 2 Доп.Зад\Лабораторная работа 2 Доп.Зад\obj\Debug\MainWindow.g.cs
+C:\Users\kapit\OneDrive\Рабочий стол\Лабораторная работа 2 Доп.Зад\Лабораторная работа 2 Доп.Зад\obj\Debug\App.g.cs
+C:\Users\kapit\OneDrive\Рабочий стол\Лабораторная работа 2 Доп.Зад\Лабораторная работа 2 Доп.Зад\obj\Debug\Дополнительное задание_MarkupCompile.cache
+C:\Users\kapit\OneDrive\Рабочий стол\Лабораторная работа 2 Доп.Зад\Лабораторная работа 2 Доп.Зад\obj\Debug\Дополнительное задание_MarkupCompile.lref
+C:\Users\kapit\OneDrive\Рабочий стол\Лабораторная работа 2 Доп.Зад\Лабораторная работа 2 Доп.Зад\obj\Debug\MainWindow.baml
+C:\Users\kapit\OneDrive\Рабочий стол\Лабораторная работа 2 Доп.Зад\Лабораторная работа 2 Доп.Зад\obj\Debug\Дополнительное задание.g.resources
+C:\Users\kapit\OneDrive\Рабочий стол\Лабораторная работа 2 Доп.Зад\Лабораторная работа 2 Доп.Зад\obj\Debug\Дополнительное_задание.Properties.Resources.resources
+C:\Users\kapit\OneDrive\Рабочий стол\Лабораторная работа 2 Доп.Зад\Лабораторная работа 2 Доп.Зад\obj\Debug\Дополнительное задание.csproj.GenerateResource.cache
+C:\Users\kapit\OneDrive\Рабочий стол\Лабораторная работа 2 Доп.Зад\Лабораторная работа 2 Доп.Зад\obj\Debug\Дополнительное задание.csproj.CoreCompileInputs.cache
+C:\Users\kapit\OneDrive\Рабочий стол\Лабораторная работа 2 Доп.Зад\Лабораторная работа 2 Доп.Зад\obj\Debug\Дополнительное задание.exe
+C:\Users\kapit\OneDrive\Рабочий стол\Лабораторная работа 2 Доп.Зад\Лабораторная работа 2 Доп.Зад\obj\Debug\Дополнительное задание.pdb
+C:\Users\kapit\OneDrive\Рабочий стол\WPF\Лабораторная 2 «Диспетчеры компоновки»\Лабораторная работа 2 Доп.Зад\bin\Debug\Дополнительное задание.exe.config
+C:\Users\kapit\OneDrive\Рабочий стол\WPF\Лабораторная 2 «Диспетчеры компоновки»\Лабораторная работа 2 Доп.Зад\bin\Debug\Дополнительное задание.exe
+C:\Users\kapit\OneDrive\Рабочий стол\WPF\Лабораторная 2 «Диспетчеры компоновки»\Лабораторная работа 2 Доп.Зад\bin\Debug\Дополнительное задание.pdb
+C:\Users\kapit\OneDrive\Рабочий стол\WPF\Лабораторная 2 «Диспетчеры компоновки»\Лабораторная работа 2 Доп.Зад\obj\Debug\Дополнительное задание.csproj.AssemblyReference.cache
+C:\Users\kapit\OneDrive\Рабочий стол\WPF\Лабораторная 2 «Диспетчеры компоновки»\Лабораторная работа 2 Доп.Зад\obj\Debug\MainWindow.g.cs
+C:\Users\kapit\OneDrive\Рабочий стол\WPF\Лабораторная 2 «Диспетчеры компоновки»\Лабораторная работа 2 Доп.Зад\obj\Debug\App.g.cs
+C:\Users\kapit\OneDrive\Рабочий стол\WPF\Лабораторная 2 «Диспетчеры компоновки»\Лабораторная работа 2 Доп.Зад\obj\Debug\Дополнительное задание_MarkupCompile.cache
+C:\Users\kapit\OneDrive\Рабочий стол\WPF\Лабораторная 2 «Диспетчеры компоновки»\Лабораторная работа 2 Доп.Зад\obj\Debug\Дополнительное задание_MarkupCompile.lref
+C:\Users\kapit\OneDrive\Рабочий стол\WPF\Лабораторная 2 «Диспетчеры компоновки»\Лабораторная работа 2 Доп.Зад\obj\Debug\MainWindow.baml
+C:\Users\kapit\OneDrive\Рабочий стол\WPF\Лабораторная 2 «Диспетчеры компоновки»\Лабораторная работа 2 Доп.Зад\obj\Debug\Дополнительное задание.g.resources
+C:\Users\kapit\OneDrive\Рабочий стол\WPF\Лабораторная 2 «Диспетчеры компоновки»\Лабораторная работа 2 Доп.Зад\obj\Debug\Дополнительное_задание.Properties.Resources.resources
+C:\Users\kapit\OneDrive\Рабочий стол\WPF\Лабораторная 2 «Диспетчеры компоновки»\Лабораторная работа 2 Доп.Зад\obj\Debug\Дополнительное задание.csproj.GenerateResource.cache
+C:\Users\kapit\OneDrive\Рабочий стол\WPF\Лабораторная 2 «Диспетчеры компоновки»\Лабораторная работа 2 Доп.Зад\obj\Debug\Дополнительное задание.csproj.CoreCompileInputs.cache
+C:\Users\kapit\OneDrive\Рабочий стол\WPF\Лабораторная 2 «Диспетчеры компоновки»\Лабораторная работа 2 Доп.Зад\obj\Debug\Дополнительное задание.exe
+C:\Users\kapit\OneDrive\Рабочий стол\WPF\Лабораторная 2 «Диспетчеры компоновки»\Лабораторная работа 2 Доп.Зад\obj\Debug\Дополнительное задание.pdb
+C:\Users\Gecko\Desktop\WPF\Лабораторная 2 Диспетчеры компоновки\Лабораторная работа 2 Доп.Зад\bin\Debug\Дополнительное задание.exe.config
+C:\Users\Gecko\Desktop\WPF\Лабораторная 2 Диспетчеры компоновки\Лабораторная работа 2 Доп.Зад\bin\Debug\Дополнительное задание.exe
+C:\Users\Gecko\Desktop\WPF\Лабораторная 2 Диспетчеры компоновки\Лабораторная работа 2 Доп.Зад\bin\Debug\Дополнительное задание.pdb
+C:\Users\Gecko\Desktop\WPF\Лабораторная 2 Диспетчеры компоновки\Лабораторная работа 2 Доп.Зад\obj\Debug\Дополнительное задание.csproj.AssemblyReference.cache
+C:\Users\Gecko\Desktop\WPF\Лабораторная 2 Диспетчеры компоновки\Лабораторная работа 2 Доп.Зад\obj\Debug\MainWindow.g.cs
+C:\Users\Gecko\Desktop\WPF\Лабораторная 2 Диспетчеры компоновки\Лабораторная работа 2 Доп.Зад\obj\Debug\App.g.cs
+C:\Users\Gecko\Desktop\WPF\Лабораторная 2 Диспетчеры компоновки\Лабораторная работа 2 Доп.Зад\obj\Debug\Дополнительное задание_MarkupCompile.cache
+C:\Users\Gecko\Desktop\WPF\Лабораторная 2 Диспетчеры компоновки\Лабораторная работа 2 Доп.Зад\obj\Debug\Дополнительное задание_MarkupCompile.lref
+C:\Users\Gecko\Desktop\WPF\Лабораторная 2 Диспетчеры компоновки\Лабораторная работа 2 Доп.Зад\obj\Debug\MainWindow.baml
+C:\Users\Gecko\Desktop\WPF\Лабораторная 2 Диспетчеры компоновки\Лабораторная работа 2 Доп.Зад\obj\Debug\Дополнительное задание.g.resources
+C:\Users\Gecko\Desktop\WPF\Лабораторная 2 Диспетчеры компоновки\Лабораторная работа 2 Доп.Зад\obj\Debug\Дополнительное_задание.Properties.Resources.resources
+C:\Users\Gecko\Desktop\WPF\Лабораторная 2 Диспетчеры компоновки\Лабораторная работа 2 Доп.Зад\obj\Debug\Дополнительное задание.csproj.GenerateResource.cache
+C:\Users\Gecko\Desktop\WPF\Лабораторная 2 Диспетчеры компоновки\Лабораторная работа 2 Доп.Зад\obj\Debug\Дополнительное задание.csproj.CoreCompileInputs.cache
+C:\Users\Gecko\Desktop\WPF\Лабораторная 2 Диспетчеры компоновки\Лабораторная работа 2 Доп.Зад\obj\Debug\Дополнительное задание.exe
+C:\Users\Gecko\Desktop\WPF\Лабораторная 2 Диспетчеры компоновки\Лабораторная работа 2 Доп.Зад\obj\Debug\Дополнительное задание.pdb

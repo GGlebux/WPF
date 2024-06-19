@@ -1,0 +1,30 @@
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб 8.2\Lab8.2\Lab8.2\obj\Debug\Lab8.2.csproj.AssemblyReference.cache
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб 8.2\Lab8.2\Lab8.2\obj\Debug\MainWindow.g.cs
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб 8.2\Lab8.2\Lab8.2\obj\Debug\App.g.cs
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб 8.2\Lab8.2\Lab8.2\obj\Debug\Lab8.2_MarkupCompile.cache
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб 8.2\Lab8.2\Lab8.2\obj\Debug\Lab8.2_MarkupCompile.lref
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб 8.2\Lab8.2\Lab8.2\bin\Debug\Lab8.2.exe.config
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб 8.2\Lab8.2\Lab8.2\bin\Debug\Lab8.2.exe
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб 8.2\Lab8.2\Lab8.2\bin\Debug\Lab8.2.pdb
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб 8.2\Lab8.2\Lab8.2\obj\Debug\MainWindow.baml
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб 8.2\Lab8.2\Lab8.2\obj\Debug\Lab8.2.g.resources
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб 8.2\Lab8.2\Lab8.2\obj\Debug\Lab8._2.Properties.Resources.resources
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб 8.2\Lab8.2\Lab8.2\obj\Debug\Lab8.2.csproj.GenerateResource.cache
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб 8.2\Lab8.2\Lab8.2\obj\Debug\Lab8.2.csproj.CoreCompileInputs.cache
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб 8.2\Lab8.2\Lab8.2\obj\Debug\Lab8.2.exe
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб 8.2\Lab8.2\Lab8.2\obj\Debug\Lab8.2.pdb
+C:\Users\Gecko\Desktop\WPF\Лабораторная 8 Анимированные трансформации\8.2\Lab8.2\bin\Debug\Lab8.2.exe.config
+C:\Users\Gecko\Desktop\WPF\Лабораторная 8 Анимированные трансформации\8.2\Lab8.2\bin\Debug\Lab8.2.exe
+C:\Users\Gecko\Desktop\WPF\Лабораторная 8 Анимированные трансформации\8.2\Lab8.2\bin\Debug\Lab8.2.pdb
+C:\Users\Gecko\Desktop\WPF\Лабораторная 8 Анимированные трансформации\8.2\Lab8.2\obj\Debug\Lab8.2.csproj.AssemblyReference.cache
+C:\Users\Gecko\Desktop\WPF\Лабораторная 8 Анимированные трансформации\8.2\Lab8.2\obj\Debug\MainWindow.g.cs
+C:\Users\Gecko\Desktop\WPF\Лабораторная 8 Анимированные трансформации\8.2\Lab8.2\obj\Debug\App.g.cs
+C:\Users\Gecko\Desktop\WPF\Лабораторная 8 Анимированные трансформации\8.2\Lab8.2\obj\Debug\Lab8.2_MarkupCompile.cache
+C:\Users\Gecko\Desktop\WPF\Лабораторная 8 Анимированные трансформации\8.2\Lab8.2\obj\Debug\Lab8.2_MarkupCompile.lref
+C:\Users\Gecko\Desktop\WPF\Лабораторная 8 Анимированные трансформации\8.2\Lab8.2\obj\Debug\MainWindow.baml
+C:\Users\Gecko\Desktop\WPF\Лабораторная 8 Анимированные трансформации\8.2\Lab8.2\obj\Debug\Lab8.2.g.resources
+C:\Users\Gecko\Desktop\WPF\Лабораторная 8 Анимированные трансформации\8.2\Lab8.2\obj\Debug\Lab8._2.Properties.Resources.resources
+C:\Users\Gecko\Desktop\WPF\Лабораторная 8 Анимированные трансформации\8.2\Lab8.2\obj\Debug\Lab8.2.csproj.GenerateResource.cache
+C:\Users\Gecko\Desktop\WPF\Лабораторная 8 Анимированные трансформации\8.2\Lab8.2\obj\Debug\Lab8.2.csproj.CoreCompileInputs.cache
+C:\Users\Gecko\Desktop\WPF\Лабораторная 8 Анимированные трансформации\8.2\Lab8.2\obj\Debug\Lab8.2.exe
+C:\Users\Gecko\Desktop\WPF\Лабораторная 8 Анимированные трансформации\8.2\Lab8.2\obj\Debug\Lab8.2.pdb

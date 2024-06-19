@@ -1,0 +1,15 @@
+C:\Users\Gecko\Desktop\WPF\Лабораторная 7 Анимация в WPF-приложениях\7.3\Лаб.7 з.3\bin\Debug\Лаб.7 з.3.exe.config
+C:\Users\Gecko\Desktop\WPF\Лабораторная 7 Анимация в WPF-приложениях\7.3\Лаб.7 з.3\bin\Debug\Лаб.7 з.3.exe
+C:\Users\Gecko\Desktop\WPF\Лабораторная 7 Анимация в WPF-приложениях\7.3\Лаб.7 з.3\bin\Debug\Лаб.7 з.3.pdb
+C:\Users\Gecko\Desktop\WPF\Лабораторная 7 Анимация в WPF-приложениях\7.3\Лаб.7 з.3\obj\Debug\Лаб.7 з.3.csproj.AssemblyReference.cache
+C:\Users\Gecko\Desktop\WPF\Лабораторная 7 Анимация в WPF-приложениях\7.3\Лаб.7 з.3\obj\Debug\MainWindow.g.cs
+C:\Users\Gecko\Desktop\WPF\Лабораторная 7 Анимация в WPF-приложениях\7.3\Лаб.7 з.3\obj\Debug\App.g.cs
+C:\Users\Gecko\Desktop\WPF\Лабораторная 7 Анимация в WPF-приложениях\7.3\Лаб.7 з.3\obj\Debug\Лаб.7 з.3_MarkupCompile.cache
+C:\Users\Gecko\Desktop\WPF\Лабораторная 7 Анимация в WPF-приложениях\7.3\Лаб.7 з.3\obj\Debug\Лаб.7 з.3_MarkupCompile.lref
+C:\Users\Gecko\Desktop\WPF\Лабораторная 7 Анимация в WPF-приложениях\7.3\Лаб.7 з.3\obj\Debug\MainWindow.baml
+C:\Users\Gecko\Desktop\WPF\Лабораторная 7 Анимация в WPF-приложениях\7.3\Лаб.7 з.3\obj\Debug\Лаб.7 з.3.g.resources
+C:\Users\Gecko\Desktop\WPF\Лабораторная 7 Анимация в WPF-приложениях\7.3\Лаб.7 з.3\obj\Debug\Лаб._7_з._3.Properties.Resources.resources
+C:\Users\Gecko\Desktop\WPF\Лабораторная 7 Анимация в WPF-приложениях\7.3\Лаб.7 з.3\obj\Debug\Лаб.7 з.3.csproj.GenerateResource.cache
+C:\Users\Gecko\Desktop\WPF\Лабораторная 7 Анимация в WPF-приложениях\7.3\Лаб.7 з.3\obj\Debug\Лаб.7 з.3.csproj.CoreCompileInputs.cache
+C:\Users\Gecko\Desktop\WPF\Лабораторная 7 Анимация в WPF-приложениях\7.3\Лаб.7 з.3\obj\Debug\Лаб.7 з.3.exe
+C:\Users\Gecko\Desktop\WPF\Лабораторная 7 Анимация в WPF-приложениях\7.3\Лаб.7 з.3\obj\Debug\Лаб.7 з.3.pdb

@@ -1,0 +1,14 @@
+﻿<Window x:Class="Задание_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Задание_3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Background="#FFE8AEF0">
+    <Grid >
+        <Slider x:Name="sliderFontSize" Value="12" Minimum="8" Maximum="72" Margin="20,323,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtFontSize" Margin="100,10,10,140" Text="12"/>
+        <TextBlock x:Name="txtBlock" Margin="100,174,10,0" Text="Изменение размера шрифта" FontSize="12"/>
+    </Grid>
+</Window>

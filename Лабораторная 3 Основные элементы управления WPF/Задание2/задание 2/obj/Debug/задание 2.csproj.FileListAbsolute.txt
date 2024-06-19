@@ -1,0 +1,15 @@
+C:\Users\Gecko\Desktop\WPF\Лабораторная 3 Основные элементы управления WPF\Задание2\задание 2\bin\Debug\задание 2.exe.config
+C:\Users\Gecko\Desktop\WPF\Лабораторная 3 Основные элементы управления WPF\Задание2\задание 2\bin\Debug\задание 2.exe
+C:\Users\Gecko\Desktop\WPF\Лабораторная 3 Основные элементы управления WPF\Задание2\задание 2\bin\Debug\задание 2.pdb
+C:\Users\Gecko\Desktop\WPF\Лабораторная 3 Основные элементы управления WPF\Задание2\задание 2\obj\Debug\задание 2.csproj.AssemblyReference.cache
+C:\Users\Gecko\Desktop\WPF\Лабораторная 3 Основные элементы управления WPF\Задание2\задание 2\obj\Debug\MainWindow.g.cs
+C:\Users\Gecko\Desktop\WPF\Лабораторная 3 Основные элементы управления WPF\Задание2\задание 2\obj\Debug\App.g.cs
+C:\Users\Gecko\Desktop\WPF\Лабораторная 3 Основные элементы управления WPF\Задание2\задание 2\obj\Debug\задание 2_MarkupCompile.cache
+C:\Users\Gecko\Desktop\WPF\Лабораторная 3 Основные элементы управления WPF\Задание2\задание 2\obj\Debug\задание 2_MarkupCompile.lref
+C:\Users\Gecko\Desktop\WPF\Лабораторная 3 Основные элементы управления WPF\Задание2\задание 2\obj\Debug\MainWindow.baml
+C:\Users\Gecko\Desktop\WPF\Лабораторная 3 Основные элементы управления WPF\Задание2\задание 2\obj\Debug\задание 2.g.resources
+C:\Users\Gecko\Desktop\WPF\Лабораторная 3 Основные элементы управления WPF\Задание2\задание 2\obj\Debug\задание_2.Properties.Resources.resources
+C:\Users\Gecko\Desktop\WPF\Лабораторная 3 Основные элементы управления WPF\Задание2\задание 2\obj\Debug\задание 2.csproj.GenerateResource.cache
+C:\Users\Gecko\Desktop\WPF\Лабораторная 3 Основные элементы управления WPF\Задание2\задание 2\obj\Debug\задание 2.csproj.CoreCompileInputs.cache
+C:\Users\Gecko\Desktop\WPF\Лабораторная 3 Основные элементы управления WPF\Задание2\задание 2\obj\Debug\задание 2.exe
+C:\Users\Gecko\Desktop\WPF\Лабораторная 3 Основные элементы управления WPF\Задание2\задание 2\obj\Debug\задание 2.pdb

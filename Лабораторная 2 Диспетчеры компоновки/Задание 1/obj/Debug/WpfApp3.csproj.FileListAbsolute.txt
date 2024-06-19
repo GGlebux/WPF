@@ -1,0 +1,31 @@
+C:\Users\user\Desktop\Bostanova\WpfApp3\bin\Debug\WpfApp3.exe.config
+C:\Users\user\Desktop\Bostanova\WpfApp3\bin\Debug\WpfApp3.exe
+C:\Users\user\Desktop\Bostanova\WpfApp3\bin\Debug\WpfApp3.pdb
+C:\Users\user\Desktop\Bostanova\WpfApp3\obj\Debug\WpfApp3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Bostanova\WpfApp3\obj\Debug\WpfApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Bostanova\WpfApp3\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Bostanova\WpfApp3\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Bostanova\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\Users\user\Desktop\Bostanova\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\Users\user\Desktop\Bostanova\WpfApp3\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Bostanova\WpfApp3\obj\Debug\WpfApp3.g.resources
+C:\Users\user\Desktop\Bostanova\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\Users\user\Desktop\Bostanova\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Bostanova\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Bostanova\WpfApp3\obj\Debug\WpfApp3.exe
+C:\Users\user\Desktop\Bostanova\WpfApp3\obj\Debug\WpfApp3.pdb
+C:\Users\kapit\OneDrive\Рабочий стол\кубики\кубики\bin\Debug\WpfApp3.exe.config
+C:\Users\kapit\OneDrive\Рабочий стол\кубики\кубики\bin\Debug\WpfApp3.exe
+C:\Users\kapit\OneDrive\Рабочий стол\кубики\кубики\bin\Debug\WpfApp3.pdb
+C:\Users\kapit\OneDrive\Рабочий стол\кубики\кубики\obj\Debug\WpfApp3.csproj.AssemblyReference.cache
+C:\Users\kapit\OneDrive\Рабочий стол\кубики\кубики\obj\Debug\MainWindow.g.cs
+C:\Users\kapit\OneDrive\Рабочий стол\кубики\кубики\obj\Debug\App.g.cs
+C:\Users\kapit\OneDrive\Рабочий стол\кубики\кубики\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\Users\kapit\OneDrive\Рабочий стол\кубики\кубики\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\Users\kapit\OneDrive\Рабочий стол\кубики\кубики\obj\Debug\MainWindow.baml
+C:\Users\kapit\OneDrive\Рабочий стол\кубики\кубики\obj\Debug\WpfApp3.g.resources
+C:\Users\kapit\OneDrive\Рабочий стол\кубики\кубики\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\Users\kapit\OneDrive\Рабочий стол\кубики\кубики\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+C:\Users\kapit\OneDrive\Рабочий стол\кубики\кубики\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+C:\Users\kapit\OneDrive\Рабочий стол\кубики\кубики\obj\Debug\WpfApp3.exe
+C:\Users\kapit\OneDrive\Рабочий стол\кубики\кубики\obj\Debug\WpfApp3.pdb

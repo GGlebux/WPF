@@ -1,0 +1,77 @@
+C:\Users\user.COPP6-3.000\Desktop\капитонова 21ис\лабораторная 5\bin\Debug\лабораторная 5.exe.config
+C:\Users\user.COPP6-3.000\Desktop\капитонова 21ис\лабораторная 5\bin\Debug\лабораторная 5.exe
+C:\Users\user.COPP6-3.000\Desktop\капитонова 21ис\лабораторная 5\bin\Debug\лабораторная 5.pdb
+C:\Users\user.COPP6-3.000\Desktop\капитонова 21ис\лабораторная 5\obj\Debug\лабораторная 5.csproj.AssemblyReference.cache
+C:\Users\user.COPP6-3.000\Desktop\капитонова 21ис\лабораторная 5\obj\Debug\лабораторная 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\user.COPP6-3.000\Desktop\капитонова 21ис\лабораторная 5\obj\Debug\MainWindow.g.cs
+C:\Users\user.COPP6-3.000\Desktop\капитонова 21ис\лабораторная 5\obj\Debug\App.g.cs
+C:\Users\user.COPP6-3.000\Desktop\капитонова 21ис\лабораторная 5\obj\Debug\лабораторная 5_MarkupCompile.cache
+C:\Users\user.COPP6-3.000\Desktop\капитонова 21ис\лабораторная 5\obj\Debug\лабораторная 5_MarkupCompile.lref
+C:\Users\user.COPP6-3.000\Desktop\капитонова 21ис\лабораторная 5\obj\Debug\MainWindow.baml
+C:\Users\user.COPP6-3.000\Desktop\капитонова 21ис\лабораторная 5\obj\Debug\лабораторная 5.g.resources
+C:\Users\user.COPP6-3.000\Desktop\капитонова 21ис\лабораторная 5\obj\Debug\лабораторная_5.Properties.Resources.resources
+C:\Users\user.COPP6-3.000\Desktop\капитонова 21ис\лабораторная 5\obj\Debug\лабораторная 5.csproj.GenerateResource.cache
+C:\Users\user.COPP6-3.000\Desktop\капитонова 21ис\лабораторная 5\obj\Debug\лабораторная 5.csproj.CoreCompileInputs.cache
+C:\Users\user.COPP6-3.000\Desktop\капитонова 21ис\лабораторная 5\obj\Debug\лабораторная 5.exe
+C:\Users\user.COPP6-3.000\Desktop\капитонова 21ис\лабораторная 5\obj\Debug\лабораторная 5.pdb
+C:\Users\user.COPP6-3.000\Desktop\лабораторная 5\bin\Debug\лабораторная 5.exe.config
+C:\Users\user.COPP6-3.000\Desktop\лабораторная 5\bin\Debug\лабораторная 5.exe
+C:\Users\user.COPP6-3.000\Desktop\лабораторная 5\bin\Debug\лабораторная 5.pdb
+C:\Users\user.COPP6-3.000\Desktop\лабораторная 5\obj\Debug\лабораторная 5.csproj.AssemblyReference.cache
+C:\Users\user.COPP6-3.000\Desktop\лабораторная 5\obj\Debug\лабораторная 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\user.COPP6-3.000\Desktop\лабораторная 5\obj\Debug\MainWindow.g.cs
+C:\Users\user.COPP6-3.000\Desktop\лабораторная 5\obj\Debug\App.g.cs
+C:\Users\user.COPP6-3.000\Desktop\лабораторная 5\obj\Debug\лабораторная 5_MarkupCompile.cache
+C:\Users\user.COPP6-3.000\Desktop\лабораторная 5\obj\Debug\лабораторная 5_MarkupCompile.lref
+C:\Users\user.COPP6-3.000\Desktop\лабораторная 5\obj\Debug\MainWindow.baml
+C:\Users\user.COPP6-3.000\Desktop\лабораторная 5\obj\Debug\лабораторная 5.g.resources
+C:\Users\user.COPP6-3.000\Desktop\лабораторная 5\obj\Debug\лабораторная_5.Properties.Resources.resources
+C:\Users\user.COPP6-3.000\Desktop\лабораторная 5\obj\Debug\лабораторная 5.csproj.GenerateResource.cache
+C:\Users\user.COPP6-3.000\Desktop\лабораторная 5\obj\Debug\лабораторная 5.csproj.CoreCompileInputs.cache
+C:\Users\user.COPP6-3.000\Desktop\лабораторная 5\obj\Debug\лабораторная 5.exe
+C:\Users\user.COPP6-3.000\Desktop\лабораторная 5\obj\Debug\лабораторная 5.pdb
+C:\Users\kapit\OneDrive\Рабочий стол\лабораторная 5\лабораторная 5\bin\Debug\лабораторная 5.exe.config
+C:\Users\kapit\OneDrive\Рабочий стол\лабораторная 5\лабораторная 5\bin\Debug\лабораторная 5.exe
+C:\Users\kapit\OneDrive\Рабочий стол\лабораторная 5\лабораторная 5\bin\Debug\лабораторная 5.pdb
+C:\Users\kapit\OneDrive\Рабочий стол\лабораторная 5\лабораторная 5\obj\Debug\лабораторная 5.csproj.AssemblyReference.cache
+C:\Users\kapit\OneDrive\Рабочий стол\лабораторная 5\лабораторная 5\obj\Debug\MainWindow.g.cs
+C:\Users\kapit\OneDrive\Рабочий стол\лабораторная 5\лабораторная 5\obj\Debug\App.g.cs
+C:\Users\kapit\OneDrive\Рабочий стол\лабораторная 5\лабораторная 5\obj\Debug\лабораторная 5_MarkupCompile.cache
+C:\Users\kapit\OneDrive\Рабочий стол\лабораторная 5\лабораторная 5\obj\Debug\лабораторная 5_MarkupCompile.lref
+C:\Users\kapit\OneDrive\Рабочий стол\лабораторная 5\лабораторная 5\obj\Debug\MainWindow.baml
+C:\Users\kapit\OneDrive\Рабочий стол\лабораторная 5\лабораторная 5\obj\Debug\лабораторная 5.g.resources
+C:\Users\kapit\OneDrive\Рабочий стол\лабораторная 5\лабораторная 5\obj\Debug\лабораторная_5.Properties.Resources.resources
+C:\Users\kapit\OneDrive\Рабочий стол\лабораторная 5\лабораторная 5\obj\Debug\лабораторная 5.csproj.GenerateResource.cache
+C:\Users\kapit\OneDrive\Рабочий стол\лабораторная 5\лабораторная 5\obj\Debug\лабораторная 5.csproj.CoreCompileInputs.cache
+C:\Users\kapit\OneDrive\Рабочий стол\лабораторная 5\лабораторная 5\obj\Debug\лабораторная 5.exe
+C:\Users\kapit\OneDrive\Рабочий стол\лабораторная 5\лабораторная 5\obj\Debug\лабораторная 5.pdb
+C:\Users\kapit\OneDrive\Рабочий стол\WPF Капитонова\Лабораторная 5 Использование стилей в WPF-приложениях\Lab5-main\Lab5-main\лабораторная 5\лабораторная 5\bin\Debug\лабораторная 5.exe.config
+C:\Users\kapit\OneDrive\Рабочий стол\WPF Капитонова\Лабораторная 5 Использование стилей в WPF-приложениях\Lab5-main\Lab5-main\лабораторная 5\лабораторная 5\bin\Debug\лабораторная 5.exe
+C:\Users\kapit\OneDrive\Рабочий стол\WPF Капитонова\Лабораторная 5 Использование стилей в WPF-приложениях\Lab5-main\Lab5-main\лабораторная 5\лабораторная 5\bin\Debug\лабораторная 5.pdb
+C:\Users\kapit\OneDrive\Рабочий стол\WPF Капитонова\Лабораторная 5 Использование стилей в WPF-приложениях\Lab5-main\Lab5-main\лабораторная 5\лабораторная 5\obj\Debug\лабораторная 5.csproj.AssemblyReference.cache
+C:\Users\kapit\OneDrive\Рабочий стол\WPF Капитонова\Лабораторная 5 Использование стилей в WPF-приложениях\Lab5-main\Lab5-main\лабораторная 5\лабораторная 5\obj\Debug\MainWindow.g.cs
+C:\Users\kapit\OneDrive\Рабочий стол\WPF Капитонова\Лабораторная 5 Использование стилей в WPF-приложениях\Lab5-main\Lab5-main\лабораторная 5\лабораторная 5\obj\Debug\App.g.cs
+C:\Users\kapit\OneDrive\Рабочий стол\WPF Капитонова\Лабораторная 5 Использование стилей в WPF-приложениях\Lab5-main\Lab5-main\лабораторная 5\лабораторная 5\obj\Debug\лабораторная 5_MarkupCompile.cache
+C:\Users\kapit\OneDrive\Рабочий стол\WPF Капитонова\Лабораторная 5 Использование стилей в WPF-приложениях\Lab5-main\Lab5-main\лабораторная 5\лабораторная 5\obj\Debug\лабораторная 5_MarkupCompile.lref
+C:\Users\kapit\OneDrive\Рабочий стол\WPF Капитонова\Лабораторная 5 Использование стилей в WPF-приложениях\Lab5-main\Lab5-main\лабораторная 5\лабораторная 5\obj\Debug\MainWindow.baml
+C:\Users\kapit\OneDrive\Рабочий стол\WPF Капитонова\Лабораторная 5 Использование стилей в WPF-приложениях\Lab5-main\Lab5-main\лабораторная 5\лабораторная 5\obj\Debug\лабораторная 5.g.resources
+C:\Users\kapit\OneDrive\Рабочий стол\WPF Капитонова\Лабораторная 5 Использование стилей в WPF-приложениях\Lab5-main\Lab5-main\лабораторная 5\лабораторная 5\obj\Debug\лабораторная_5.Properties.Resources.resources
+C:\Users\kapit\OneDrive\Рабочий стол\WPF Капитонова\Лабораторная 5 Использование стилей в WPF-приложениях\Lab5-main\Lab5-main\лабораторная 5\лабораторная 5\obj\Debug\лабораторная 5.csproj.GenerateResource.cache
+C:\Users\kapit\OneDrive\Рабочий стол\WPF Капитонова\Лабораторная 5 Использование стилей в WPF-приложениях\Lab5-main\Lab5-main\лабораторная 5\лабораторная 5\obj\Debug\лабораторная 5.csproj.CoreCompileInputs.cache
+C:\Users\kapit\OneDrive\Рабочий стол\WPF Капитонова\Лабораторная 5 Использование стилей в WPF-приложениях\Lab5-main\Lab5-main\лабораторная 5\лабораторная 5\obj\Debug\лабораторная 5.exe
+C:\Users\kapit\OneDrive\Рабочий стол\WPF Капитонова\Лабораторная 5 Использование стилей в WPF-приложениях\Lab5-main\Lab5-main\лабораторная 5\лабораторная 5\obj\Debug\лабораторная 5.pdb
+C:\Users\Gecko\Desktop\WPF\Лабораторная 5 Использование стилей в WPF-приложениях\5\bin\Debug\лабораторная 5.exe.config
+C:\Users\Gecko\Desktop\WPF\Лабораторная 5 Использование стилей в WPF-приложениях\5\bin\Debug\лабораторная 5.exe
+C:\Users\Gecko\Desktop\WPF\Лабораторная 5 Использование стилей в WPF-приложениях\5\bin\Debug\лабораторная 5.pdb
+C:\Users\Gecko\Desktop\WPF\Лабораторная 5 Использование стилей в WPF-приложениях\5\obj\Debug\лабораторная 5.csproj.AssemblyReference.cache
+C:\Users\Gecko\Desktop\WPF\Лабораторная 5 Использование стилей в WPF-приложениях\5\obj\Debug\MainWindow.g.cs
+C:\Users\Gecko\Desktop\WPF\Лабораторная 5 Использование стилей в WPF-приложениях\5\obj\Debug\App.g.cs
+C:\Users\Gecko\Desktop\WPF\Лабораторная 5 Использование стилей в WPF-приложениях\5\obj\Debug\лабораторная 5_MarkupCompile.cache
+C:\Users\Gecko\Desktop\WPF\Лабораторная 5 Использование стилей в WPF-приложениях\5\obj\Debug\лабораторная 5_MarkupCompile.lref
+C:\Users\Gecko\Desktop\WPF\Лабораторная 5 Использование стилей в WPF-приложениях\5\obj\Debug\MainWindow.baml
+C:\Users\Gecko\Desktop\WPF\Лабораторная 5 Использование стилей в WPF-приложениях\5\obj\Debug\лабораторная 5.g.resources
+C:\Users\Gecko\Desktop\WPF\Лабораторная 5 Использование стилей в WPF-приложениях\5\obj\Debug\лабораторная_5.Properties.Resources.resources
+C:\Users\Gecko\Desktop\WPF\Лабораторная 5 Использование стилей в WPF-приложениях\5\obj\Debug\лабораторная 5.csproj.GenerateResource.cache
+C:\Users\Gecko\Desktop\WPF\Лабораторная 5 Использование стилей в WPF-приложениях\5\obj\Debug\лабораторная 5.csproj.CoreCompileInputs.cache
+C:\Users\Gecko\Desktop\WPF\Лабораторная 5 Использование стилей в WPF-приложениях\5\obj\Debug\лабораторная 5.exe
+C:\Users\Gecko\Desktop\WPF\Лабораторная 5 Использование стилей в WPF-приложениях\5\obj\Debug\лабораторная 5.pdb
